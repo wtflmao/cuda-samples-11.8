@@ -4,6 +4,8 @@ Samples for CUDA Developers which demonstrates features in CUDA Toolkit. This ve
 
 NVIDIA's original repo can be found [here](https://github.com/NVIDIA/cuda-samples).
 
+CUDA 11.8 programming guide PDF can be found [here](./Guide/CUDA_C_Programming_Guide_11.8.pdf).
+
 ## Release Notes
 
 This section describes the release notes for the CUDA Samples on GitHub only.
