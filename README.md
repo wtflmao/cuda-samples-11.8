@@ -2,6 +2,8 @@
 
 Samples for CUDA Developers which demonstrates features in CUDA Toolkit. This version supports [CUDA Toolkit 11.8](https://developer.nvidia.com/cuda-downloads).
 
+NVIDIA's original repo can be found [here](https://github.com/NVIDIA/cuda-samples).
+
 ## Release Notes
 
 This section describes the release notes for the CUDA Samples on GitHub only.
@@ -24,7 +26,7 @@ For system requirements and installation instructions of cuda toolkit, please re
 
 Using git clone the repository of CUDA Samples using the command below.
 ```
-git clone https://github.com/NVIDIA/cuda-samples.git
+git clone https://github.com/wtflmao/cuda-samples-11.8.git
 ```
 
 Without using git the easiest way to use these samples is to download the zip file containing the current version by clicking the "Download ZIP" button on the repo page. You can then unzip the entire archive and use the samples.
